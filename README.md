@@ -1,2 +1,3 @@
-# Xlinx-SummerSchool-AES-CRC-MD5
-Xlinx-SummerSchool-AES-CRC-MD5
+# Xlinx-SummerSchool-AWS_IoT-AES_Algorithm
+Xlinx-SummerSchool-AWS_IoT-AES_Algorithm
+
