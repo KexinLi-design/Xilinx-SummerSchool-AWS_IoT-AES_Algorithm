@@ -2,7 +2,7 @@
 Xlinx-SummerSchool-AWS_IoT-AES_Algorithm
 
 作品名称：基于SEA Board的AES加密算法在AWS物联网中的应用
-板卡型号：SEA开发板——Xilinx xc7s15ftgb196-1芯片
+<br />板卡型号：SEA开发板——Xilinx xc7s15ftgb196-1芯片
 成员姓名：杜娟    06017111  东南大学
          李可欣  06017109  东南大学
 
